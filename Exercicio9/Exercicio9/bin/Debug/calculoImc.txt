@@ -3,7 +3,7 @@
 Nome: Elaine
 Idade: 23
 Altura: 1,64
-IMC: 27,5133848899465
+IMC: 27,51
 Sobrepeso
 ######################
 ######################
@@ -12,4 +12,11 @@ Idade: 23
 Altura: 1,64
 IMC: 28
 Sobrepeso
+######################
+######################
+Nome: Maria Eduarda
+Idade: 18
+Altura: 1,72
+IMC: 24
+Peso normal
 ######################
